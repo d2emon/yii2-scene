@@ -1,0 +1,20 @@
+{
+    "name": "d2emon/yii2-scene",
+    "version": "1.0.0",
+    "description": "Some theater and cinema utils for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["theater", "cinema"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Dmitry Kutsenko",
+            "email": "d2emonium@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "d2emon\\scene\\": ""
+        }
+    }
+}
